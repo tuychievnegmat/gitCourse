@@ -1,1 +1,2 @@
-error.txt
+errors.txt
+/git course/someText
